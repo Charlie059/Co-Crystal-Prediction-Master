@@ -1,0 +1,553 @@
+@article{def_cocrystal,
+  title={Polymorphs, salts, and cocrystals: what’s in a name?},
+  author={Aitipamula, Srinivasulu and Banerjee, Rahul and Bansal, Arvind K and Biradha, Kumar and Cheney, Miranda L and Choudhury, Angshuman Roy and Desiraju, Gautam R and Dikundwar, Amol G and Dubey, Ritesh and Duggirala, Nagakiran and others},
+  journal={Crystal growth \& design},
+  volume={12},
+  number={5},
+  pages={2147--2152},
+  year={2012},
+  publisher={ACS Publications}
+}
+
+@article{ML_OverView,
+  title={Machine learning for molecular and materials science},
+  author={Butler, Keith T and Davies, Daniel W and Cartwright, Hugh and Isayev, Olexandr and Walsh, Aron},
+  journal={Nature},
+  volume={559},
+  number={7715},
+  pages={547--555},
+  year={2018},
+  publisher={Nature Publishing Group}
+}
+
+
+@article{ML_Crystal,
+  title={Performance comparison of a co-crystal of carbamazepine with marketed product},
+  author={Hickey, Magali B and Peterson, Matthew L and Scoppettuolo, Lisa A and Morrisette, Sherry L and Vetter, Anna and Guzm{\'a}n, Hector and Remenar, Julius F and Zhang, Zhong and Tawa, Mark D and Haley, Sean and others},
+  journal={European journal of pharmaceutics and biopharmaceutics},
+  volume={67},
+  number={1},
+  pages={112--119},
+  year={2007},
+  publisher={Elsevier}
+}
+
+@article{paracetamol,
+  title={Improving mechanical properties of crystalline solids by cocrystal formation: new compressible forms of paracetamol},
+  author={Karki, Shyam and Fri{\v{s}}{\v{c}}i{\'c}, Tomislav and Fabian, Laszlo and Laity, Peter R and Day, Graeme M and Jones, William},
+  journal={Advanced materials},
+  volume={21},
+  number={38-39},
+  pages={3905--3909},
+  year={2009},
+  publisher={Wiley Online Library}
+}
+
+@article{ZINC15,
+  title={ZINC 15--ligand discovery for everyone},
+  author={Sterling, Teague and Irwin, John J},
+  journal={Journal of chemical information and modeling},
+  volume={55},
+  number={11},
+  pages={2324--2337},
+  year={2015},
+  publisher={ACS Publications}
+}
+
+@article{dawe2012corannulene,
+  title={Corannulene and its penta-tert-butyl derivative co-crystallize 1: 1 with pristine C 60-fullerene},
+  author={Dawe, Louise N and AlHujran, Tayel A and Tran, Huu-Anh and Mercer, Jason I and Jackson, Edward A and Scott, Lawrence T and Georghiou, Paris E},
+  journal={Chemical Communications},
+  volume={48},
+  number={45},
+  pages={5563--5565},
+  year={2012},
+  publisher={Royal Society of Chemistry}
+}
+
+@article{Unbalanced_Fact,
+  title={Recent advances and applications of machine learning in solid-state materials science},
+  author={Schmidt, Jonathan and Marques, M{\'a}rio RG and Botti, Silvana and Marques, Miguel AL},
+  journal={npj Computational Materials},
+  volume={5},
+  number={1},
+  pages={1--36},
+  year={2019},
+  publisher={Nature Publishing Group}
+}
+
+@article{CSD,
+  title={The Cambridge structural database},
+  author={Groom, Colin R and Bruno, Ian J and Lightfoot, Matthew P and Ward, Suzanna C},
+  journal={Acta Crystallographica Section B: Structural Science, Crystal Engineering and Materials},
+  volume={72},
+  number={2},
+  pages={171--179},
+  year={2016},
+  publisher={International Union of Crystallography}
+}
+
+@ARTICLE{unbalanced,  author={H. {He} and E. A. {Garcia}},  journal={IEEE Transactions on Knowledge and Data Engineering},   title={Learning from Imbalanced Data},   year={2009},  volume={21},  number={9},  pages={1263-1284},  doi={10.1109/TKDE.2008.239}}
+
+
+@article{unreliable_exp,
+  title={Chemical Crystallography: when are ‘bad data’‘good data’?},
+  author={Thompson, Amber L},
+  journal={Crystallography Reviews},
+  volume={25},
+  number={1},
+  pages={3--53},
+  year={2019},
+  publisher={Taylor \& Francis}
+}
+
+@article{SMOTE,
+  title={SMOTE: synthetic minority over-sampling technique},
+  author={Chawla, Nitesh V and Bowyer, Kevin W and Hall, Lawrence O and Kegelmeyer, W Philip},
+  journal={Journal of artificial intelligence research},
+  volume={16},
+  pages={321--357},
+  year={2002}
+}
+
+
+@article{Imbalancedmethods,
+  title={Review of imbalanced data classification methods},
+  author={Li, YX and Chai, Yi and Hu, YQ and YIN, Hong-peng},
+  journal={Control and Decision},
+  volume={34},
+  number={4},
+  pages={673--688},
+  year={2019}
+}
+
+@article{cost-sensitive-tree,
+  title={A cost-sensitive decision tree approach for fraud detection},
+  author={Sahin, Yusuf and Bulkan, Serol and Duman, Ekrem},
+  journal={Expert Systems with Applications},
+  volume={40},
+  number={15},
+  pages={5916--5923},
+  year={2013},
+  publisher={Elsevier}
+}
+
+@article{CCDC,
+  title={The Cambridge structural database},
+  author={Groom, Colin R and Bruno, Ian J and Lightfoot, Matthew P and Ward, Suzanna C},
+  journal={Acta Crystallographica Section B: Structural Science, Crystal Engineering and Materials},
+  volume={72},
+  number={2},
+  pages={171--179},
+  year={2016},
+  publisher={International Union of Crystallography}
+}
+
+@article{Morderd_Software,
+  title={Mordred: a molecular descriptor calculator},
+  author={Moriwaki, Hirotomo and Tian, Yu-Shi and Kawashita, Norihito and Takagi, Tatsuya},
+  journal={Journal of cheminformatics},
+  volume={10},
+  number={1},
+  pages={4},
+  year={2018},
+  publisher={Springer}
+}
+
+@article{paradigm_matrial_science,
+  title={Big data-driven materials science and its FAIR data infrastructure},
+  author={Draxl, Claudia and Scheffler, Matthias},
+  journal={Handbook of Materials Modeling: Methods: Theory and Modeling},
+  pages={49--73},
+  year={2020},
+  publisher={Springer}
+}
+
+@article{TheRoleofMachineLearningintheUnderstandingandDesignofMaterials,
+  title={The Role of Machine Learning in the Understanding and Design of Materials},
+  author={Moosavi, Seyed Mohamad and Jablonka, Kevin Maik and Smit, Berend},
+  journal={Journal of the American Chemical Society},
+  volume={142},
+  number={48},
+  pages={20273--20287},
+  year={2020},
+  publisher={ACS Publications}
+}
+
+
+@inproceedings{Spy,
+  title={Partially supervised classification of text documents},
+  author={Liu, Bing and Lee, Wee Sun and Yu, Philip S and Li, Xiaoli},
+  booktitle={ICML},
+  volume={2},
+  number={485},
+  pages={387--394},
+  year={2002}
+}
+
+@inproceedings{DBSCAN,
+  title={A density-based algorithm for discovering clusters in large spatial databases with noise.},
+  author={Ester, Martin and Kriegel, Hans-Peter and Sander, J{\"o}rg and Xu, Xiaowei and others},
+  booktitle={Kdd},
+  volume={96},
+  number={34},
+  pages={226--231},
+  year={1996}
+}
+
+@article{Random_Forests,
+  title={Random forests},
+  author={Breiman, Leo},
+  journal={Machine learning},
+  volume={45},
+  number={1},
+  pages={5--32},
+  year={2001},
+  publisher={Springer}
+}
+
+@article{wicker2017will,
+  title={Will they co-crystallize?},
+  author={Wicker, Jerome GP and Crowley, Lorraine M and Robshaw, Oliver and Little, Edmund J and Stokes, Stephen P and Cooper, Richard I and Lawrence, Simon E},
+  journal={CrystEngComm},
+  volume={19},
+  number={36},
+  pages={5336--5340},
+  year={2017},
+  publisher={Royal Society of Chemistry}
+}
+
+@article{devogelaer2020co,
+  title={Co-crystal Prediction by Artificial Neural Networks},
+  author={Devogelaer, Jan-Joris and Meekes, Hugo and Tinnemans, Paul and Vlieg, Elias and De Gelder, Rene},
+  journal={Angewandte Chemie},
+  volume={132},
+  number={48},
+  pages={21895--21902},
+  year={2020},
+  publisher={Wiley Online Library}
+}
+
+@article{wang2020machine,
+  title={Machine-Learning-Guided Cocrystal Prediction Based on Large Data Base},
+  author={Wang, Dingyan and Yang, Zeen and Zhu, Bingqing and Mei, Xuefeng and Luo, Xiaomin},
+  journal={Crystal Growth \& Design},
+  volume={20},
+  number={10},
+  pages={6610--6621},
+  year={2020},
+  publisher={ACS Publications}
+}
+
+@article{vriza2021one,
+  title={One class classification as a practical approach for accelerating $\pi$--$\pi$ co-crystal discovery},
+  author={Vriza, Aikaterini and Canaj, Angelos B and Vismara, Rebecca and Cook, Laurence J Kershaw and Manning, Troy D and Gaultois, Michael W and Wood, Peter A and Kurlin, Vitaliy and Berry, Neil and Dyer, Matthew S and others},
+  journal={Chemical Science},
+  volume={12},
+  number={5},
+  pages={1702--1719},
+  year={2021},
+  publisher={Royal Society of Chemistry}
+}
+
+@article{weininger1988smiles,
+  title={SMILES, a chemical language and information system. 1. Introduction to methodology and encoding rules},
+  author={Weininger, David},
+  journal={Journal of chemical information and computer sciences},
+  volume={28},
+  number={1},
+  pages={31--36},
+  year={1988},
+  publisher={ACS Publications}
+}
+
+@book{molecular_descriptors,
+  title={Molecular descriptors for chemoinformatics: volume I: alphabetical listing/volume II: appendices, references},
+  author={Todeschini, Roberto and Consonni, Viviana},
+  volume={41},
+  year={2009},
+  publisher={John Wiley \& Sons}
+}
+
+@article{guha2012survey,
+  title={A survey of quantitative descriptions of molecular structure},
+  author={Guha, Rajarshi and Willighagen, Egon},
+  journal={Current topics in medicinal chemistry},
+  volume={12},
+  number={18},
+  pages={1946--1956},
+  year={2012},
+  publisher={Bentham Science Publishers}
+}
+
+@incollection{chandrasekaran2018computer,
+  title={Computer-aided prediction of pharmacokinetic (ADMET) properties},
+  author={Chandrasekaran, Balakumar and Abed, Sara Nidal and Al-Attraqchi, Omar and Kuche, Kaushik and Tekade, Rakesh K},
+  booktitle={Dosage Form Design Parameters},
+  pages={731--755},
+  year={2018},
+  publisher={Elsevier}
+}
+
+@article{Ren_QSAR,
+  title={DingLiang GouXiao GuanXi YanJiuZhong FenZiMiaoShuFu De XiangGuanXing [Relevance of molecular descriptors in quantitative conformational relationship studies]},
+  author={Ren Wei and Kong Dexin},
+  journal={Computers and Applied Chemistry},
+  volume={26},
+  number={11},
+  pages={1455--1458},
+  year={2009}
+}
+
+@article{frey2019prediction,
+  title={Prediction of synthesis of 2D metal carbides and nitrides (MXenes) and their precursors with positive and unlabeled machine learning},
+  author={Frey, Nathan C and Wang, Jin and Vega Bellido, Gabriel Iván and Anasori, Babak and Gogotsi, Yury and Shenoy, Vivek B},
+  journal={ACS nano},
+  volume={13},
+  number={3},
+  pages={3031--3041},
+  year={2019},
+  publisher={ACS Publications}
+}
+
+@article{fabian2009cambridge,
+  title={Cambridge structural database analysis of molecular complementarity in cocrystals},
+  author={F{\'a}bi{\'a}n, L{\'a}szl{\'o}},
+  journal={Crystal Growth and Design},
+  volume={9},
+  number={3},
+  pages={1436--1443},
+  year={2009},
+  publisher={ACS Publications}
+}
+
+@article{li2019positive,
+  title={Positive-unlabelled learning of glycosylation sites in the human proteome},
+  author={Li, Fuyi and Zhang, Yang and Purcell, Anthony W and Webb, Geoffrey I and Chou, Kuo-Chen and Lithgow, Trevor and Li, Chen and Song, Jiangning},
+  journal={BMC bioinformatics},
+  volume={20},
+  number={1},
+  pages={1--17},
+  year={2019},
+  publisher={Springer}
+}
+
+
+@article{bekker2020survey,
+  title={Learning from positive and unlabeled data: A survey},
+  author={Bekker, Jessa and Davis, Jesse},
+  journal={Machine Learning},
+  volume={109},
+  number={4},
+  pages={719--760},
+  year={2020},
+  publisher={Springer}
+}
+
+@article{Matthews_Correlation_Coefficient,
+author = {Boughorbel, S. and Jarray, Fethi and El-Anbari, Mohammed},
+year = {2017},
+month = {06},
+pages = {e0177678},
+title = {Optimal classifier for imbalanced data using Matthews Correlation Coefficient metric},
+volume = {12},
+journal = {PLOS ONE},
+doi = {10.1371/journal.pone.0177678}
+}
+
+
+@article{bekker2020learning,
+  title={Learning from positive and unlabeled data: A survey},
+  author={Bekker, Jessa and Davis, Jesse},
+  journal={Machine Learning},
+  volume={109},
+  number={4},
+  pages={719--760},
+  year={2020},
+  publisher={Springer}
+}
+
+@article{wood2014knowledge,
+  title={Knowledge-based approaches to co-crystal design},
+  author={Wood, Peter A and Feeder, Neil and Furlow, Matthew and Galek, Peter TA and Groom, Colin R and Pidcock, Elna},
+  journal={CrystEngComm},
+  volume={16},
+  number={26},
+  pages={5839--5848},
+  year={2014},
+  publisher={Royal Society of Chemistry}
+}
+
+
+
+@article{kulla2016situ,
+  title={In situ investigation of a self-accelerated cocrystal formation by grinding pyrazinamide with oxalic acid},
+  author={Kulla, Hannes and Greiser, Sebastian and Benemann, Sigrid and Rademann, Klaus and Emmerling, Franziska},
+  journal={Molecules},
+  volume={21},
+  number={7},
+  pages={917},
+  year={2016},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+
+@article{luo2013pharmaceutical,
+  title={Pharmaceutical Co-crystals of pyrazinecarboxamide (PZA) with various carboxylic acids: crystallography, hirshfeld surfaces, and dissolution study},
+  author={Luo, Yang-Hui and Sun, Bai-Wang},
+  journal={Crystal growth \& design},
+  volume={13},
+  number={5},
+  pages={2098--2106},
+  year={2013},
+  publisher={ACS Publications}
+}
+
+@misc{PU_def, title={PU Learning - Learning from Positive and Unlabeled Examples}, url={https://www.cs.uic.edu/~liub/NSF/PSC-IIS-0307239.html}, journal={PU Learning: Learning from Positive and Unlabeled Examples}, author={ Liu, Bing}} 
+
+@inproceedings{lee2003learning,
+  title={Learning with positive and unlabeled examples using weighted logistic regression},
+  author={Lee, Wee Sun and Liu, Bing},
+  booktitle={ICML},
+  volume={3},
+  pages={448--455},
+  year={2003}
+}
+
+@inproceedings{li2005learning,
+  title={Learning from positive and unlabeled examples with different data distributions},
+  author={Li, Xiao-Li and Liu, Bing},
+  booktitle={European conference on machine learning},
+  pages={218--229},
+  year={2005},
+  organization={Springer}
+}
+
+@article{cai2020machine,
+  title={Machine learning-driven new material discovery},
+  author={Cai, Jiazhen and Chu, Xuan and Xu, Kun and Li, Hongbo and Wei, Jing},
+  journal={Nanoscale Advances},
+  volume={2},
+  number={8},
+  pages={3115--3130},
+  year={2020},
+  publisher={Royal Society of Chemistry}
+}
+
+@inproceedings{liu2008isolation,
+  title={Isolation forest},
+  author={Liu, Fei Tony and Ting, Kai Ming and Zhou, Zhi-Hua},
+  booktitle={2008 eighth ieee international conference on data mining},
+  pages={413--422},
+  year={2008},
+  organization={IEEE}
+}
+
+@inproceedings{liu2002partially,
+  title={Partially supervised classification of text documents},
+  author={Liu, Bing and Lee, Wee Sun and Yu, Philip S and Li, Xiaoli},
+  booktitle={ICML},
+  volume={2},
+  number={485},
+  pages={387--394},
+  year={2002}
+}
+
+@article{lan2016predicting,
+  title={Predicting drug--target interaction using positive-unlabeled learning},
+  author={Lan, Wei and Wang, Jianxin and Li, Min and Liu, Jin and Li, Yaohang and Wu, Fang-Xiang and Pan, Yi},
+  journal={Neurocomputing},
+  volume={206},
+  pages={50--57},
+  year={2016},
+  publisher={Elsevier}
+}
+
+
+@article{cha2007comprehensive,
+  title={Comprehensive survey on distance/similarity measures between probability density functions},
+  author={Cha, Sung-Hyuk},
+  journal={City},
+  volume={1},
+  number={2},
+  pages={1},
+  year={2007},
+  publisher={Citeseer}
+}
+
+@article{patro2015normalization,
+  title={Normalization: A preprocessing stage},
+  author={Patro, S and Sahu, Kishore Kumar},
+  journal={arXiv preprint arXiv:1503.06462},
+  year={2015}
+}
+
+@article{belgiu2016random,
+  title={Random forest in remote sensing: A review of applications and future directions},
+  author={Belgiu, Mariana and Dr{\u{a}}gu{\c{t}}, Lucian},
+  journal={ISPRS journal of photogrammetry and remote sensing},
+  volume={114},
+  pages={24--31},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{biau2016random,
+  title={A random forest guided tour},
+  author={Biau, G{\'e}rard and Scornet, Erwan},
+  journal={Test},
+  volume={25},
+  number={2},
+  pages={197--227},
+  year={2016},
+  publisher={Springer}
+}
+
+@article{elbatta2013dynamic,
+  title={A dynamic method for discovering density varied clusters},
+  author={Elbatta, Mohammed TH and Ashour, Wesam M},
+  journal={International Journal of Signal Processing, Image Processing and Pattern Recognition},
+  volume={6},
+  number={1},
+  year={2013}
+}
+
+@inproceedings{li2010negative,
+  title={Negative training data can be harmful to text classification},
+  author={Li, Xiao-Li and Liu, Bing and Ng, See Kiong},
+  booktitle={Proceedings of the 2010 conference on empirical methods in natural language processing},
+  pages={218--228},
+  year={2010}
+}
+
+@article{zhu2015revealing,
+  title={Revealing the charge-transfer interactions in self-assembled organic cocrystals: two-dimensional photonic applications},
+  author={Zhu, Weigang and Zheng, Renhui and Fu, Xiaolong and Fu, Hongbing and Shi, Qiang and Zhen, Yonggang and Dong, Huanli and Hu, Wenping},
+  journal={Angewandte Chemie},
+  volume={127},
+  number={23},
+  pages={6889--6893},
+  year={2015},
+  publisher={Wiley Online Library}
+}
+
+@article{park2013tailor,
+  title={Tailor-made highly luminescent and ambipolar transporting organic mixed stacked charge-transfer crystals: an isometric donor--acceptor approach},
+  author={Park, Sang Kyu and Varghese, Shinto and Kim, Jong H and Yoon, Seong-Jun and Kwon, Oh Kyu and An, Byeong-Kwan and Gierschner, Johannes and Park, Soo Young},
+  journal={Journal of the American Chemical Society},
+  volume={135},
+  number={12},
+  pages={4757--4764},
+  year={2013},
+  publisher={ACS Publications}
+}
+
+@article{huang2019organic,
+  title={Organic Cocrystals: Beyond Electrical Conductivities and Field-Effect Transistors (FETs)},
+  author={Huang, Yinjuan and Wang, Zongrui and Chen, Zhong and Zhang, Qichun},
+  journal={Angewandte Chemie International Edition},
+  volume={58},
+  number={29},
+  pages={9696--9711},
+  year={2019},
+  publisher={Wiley Online Library}
+}
