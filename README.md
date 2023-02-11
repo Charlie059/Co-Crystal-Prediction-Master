@@ -1,5 +1,6 @@
 # Co-crystal Prediction Model
 
+Paper: https://github.com/Charlie059/Co-Crystal-Prediction-Master/blob/main/XUHUI_GONG_FYP_Dissertation_Report_V1.3.0.pdf
 Presentation: https://www.youtube.com/watch?v=Hamt7LYnHaA&t=20s
 
 
