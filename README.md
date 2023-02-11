@@ -1,5 +1,7 @@
 # Co-crystal Prediction Model
 
+Presentation: https://www.youtube.com/watch?v=Hamt7LYnHaA&t=20s
+
 
 The use of a two-step PU learning technique enables the use of only positive samples and unlabelled data in cases where negative samples are unreliable.
 
